@@ -1,0 +1,15 @@
+[
+  {
+    "page-number": 2,
+    "page-size": 10,
+    "title-words": "ABC, XYZ"
+  },
+  {
+    "description": "MySQL is an open-source relational database management system.",
+    "discount_price": 30,
+    "image_path": "",
+    "on_discount": true,
+    "price": 300,
+    "title": "Proactive MySQL"
+}
+]
